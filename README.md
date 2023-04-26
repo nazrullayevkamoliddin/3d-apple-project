@@ -1,7 +1,7 @@
 # Stack
 
 - React JS
-- Three JS (WEBgi)
+- Three JS (WEBGi)
 - GSAP
 - VITE
 - HTML/CSS/JS
